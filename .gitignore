@@ -192,7 +192,6 @@ fabric.properties
 ## download and processed images, trained models
 images*
 *.png
-*.jpg
 tmp
 *.log
 *.pickle
